@@ -1,0 +1,23 @@
+MON JOURNAL INTÉRIEUR — VERSION ANDROID HORS CONNEXION
+
+CONTENU
+- Application web installable (PWA), conçue pour Android.
+- Notes datées, catégories, intensité, pistes de solution et état de résolution.
+- Recherche, filtres, statistiques et export/import JSON.
+- Enregistrement local sur l'appareil avec IndexedDB.
+- Mise en cache pour l'ouverture hors connexion.
+
+INSTALLATION SUR ANDROID
+1. Décompressez ce dossier.
+2. Hébergez les fichiers sur un site HTTPS (par exemple GitHub Pages ou Vercel).
+   L'installation PWA nécessite une première ouverture en ligne et une adresse HTTPS.
+3. Ouvrez l'adresse du site dans Google Chrome sur Android.
+4. Appuyez sur le menu ⋮ puis « Installer l'application » ou « Ajouter à l'écran d'accueil ».
+5. Ouvrez ensuite « Mon Journal Intérieur ». Après le premier chargement, l'interface est disponible hors connexion.
+
+IMPORTANT
+- Ceci est une PWA installable, pas un fichier APK autonome.
+- Les notes sont conservées localement dans le navigateur de cet appareil.
+- Il n'y a pas de synchronisation automatique entre appareils.
+- Exportez régulièrement vos notes avec l'onglet « Sauvegarde ».
+- Ne considérez pas le stockage local comme un coffre-fort chiffré : évitez les informations extrêmement sensibles.

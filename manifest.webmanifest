@@ -1,0 +1,19 @@
+{
+  "name": "Mon Journal Intérieur",
+  "short_name": "Mon Journal",
+  "description": "Ton journal personnel de pensées et préoccupations.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3ed",
+  "theme_color": "#263b52",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
